@@ -1,3 +1,12 @@
+### CS141-Project2-UIC
+
+Link-> https://sites.google.com/site/uiccs141/programs/prog-5-vexed-graphics
+
+Program Description-
+
+Write a program to implement the game of Vexed, except this time using graphics.  Running your program within Codio should look what is shown below.  Your input into the program is given via the terminal, resulting in the graphical output. Moves should be made by selecting a square number and then 'l' to move left one square, or 'r' to move right one square.
+
+
 ### Getting started
 There are various things you can do to quickly and efficiently configure your Codio Box to your exact requirements. 
 
